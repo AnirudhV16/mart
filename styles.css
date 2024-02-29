@@ -303,14 +303,14 @@ span{
 @media(max-width:600px){
     .card{
         padding:10px;
-        width:360px;
-        height:280px;
+        width:340px;
+        height:260px;
         background-color: orange;
         border-radius: 10px;
     }
     .card img{
-            width:160px;
-            height:230px;
+            width:140px;
+            height:210px;
             margin:auto;
             object-fit: fill;
     }
