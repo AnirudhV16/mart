@@ -230,35 +230,9 @@ font-size: 20px;
     background: black;
 }
 
-/*footer{
-    background-color: black;
-    color:white;
-    padding:30px;
-}
 
-footer{
-    display:flex;
-    border:10px solid green;
-    padding:20px;
-    justify-content: space-between;
-}
-.first{
-    border:10px solid red;
-}
-.first a{
-    display:block;    
-}
-.first a h2{
-    display:inline;  
-}
-.first a img{
-    display:inline;  
-}
-#gif{
-    max-width: 100%; 
-    height: auto;
-}*/
-/* Overall footer styling */
+
+
 .fooo{
     display:flex;
     flex-direction: column;
