@@ -135,6 +135,7 @@ body{
 .card{
     display:flex;
     align-items: center;
+    gap:12px;
 }
 .tables{
     display:flex;
