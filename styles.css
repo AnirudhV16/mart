@@ -28,7 +28,7 @@ body{
     border-radius: 20px;
     height: 100vh;
     border: 5px solid black;
-    margin:20px 0px;
+    margin:10px 0px;
     margin-top: 0px;
 }
 #brand{
@@ -42,7 +42,7 @@ body{
     border-radius: 20px;
     height: 100%;
     border: 5px solid black;
-    margin:20px 0px;
+    margin:10px 0px;
     align-content: center;
     overflow: hidden;
 }
